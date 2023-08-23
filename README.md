@@ -11,10 +11,7 @@ iPadOS
 
 
 
+![zyro-image (1)](https://github.com/yasarkilicx34/RockPaperScissorsApp/assets/83876748/3cc65549-aac0-4611-b08c-9918345b5440)
 
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-08-23 at 13 27 22](https://github.com/yasarkilicx34/RockPaperScissorsApp/assets/83876748/597d4cf7-ab10-4a93-a84b-921798b90e86)
-
-
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-08-23 at 13 27 13](https://github.com/yasarkilicx34/RockPaperScissorsApp/assets/83876748/6b0a1e4b-f8ca-492b-b74b-2c97f21d35d1)![Simulator Screenshot - iPhone 14 Pro - 2023-08-23 at 13 27 27](https://github.com/yasarkilicx34/RockPaperScissorsApp/assets/83876748/6069445f-d6c8-4c78-bb4d-ed9fc5069a4a)
+![zyro-image](https://github.com/yasarkilicx34/RockPaperScissorsApp/assets/83876748/d1ffc567-5249-4271-94fc-b45d85764863)
+![zyro-image (2)](https://github.com/yasarkilicx34/RockPaperScissorsApp/assets/83876748/4931a9f0-4462-497a-9bd9-e63c29bfcf49)
