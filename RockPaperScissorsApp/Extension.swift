@@ -11,10 +11,10 @@ import SwiftUI
 struct EmojiStyle: ViewModifier {
     func body(content: Content) -> some View {
         content
-            .font(.system(size: 80)) // Font boyutunu değiştirin
+            .font(.system(size: 80)) 
             .padding(.horizontal, 5)
             .background(.ultraThinMaterial)
-            .clipShape(Circle()) // Arka planın şeklini belirtin
+            .clipShape(Circle())
     }
 }
 
